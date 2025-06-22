@@ -1,0 +1,21 @@
+/* src/styles/global.css */
+
+body {
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+  background-color: #121212;  /* DARK BACKGROUND */
+  color: #eaeaea;             /* LIGHT TEXT */
+  transition: all 0.3s ease;
+}
+
+h1, h2, h3, p {
+  margin: 0;
+}
+
+button {
+  font-family: inherit;
+}
+
+input, button {
+  outline: none;
+}
