@@ -65,8 +65,7 @@ In moments of stress or anxiety, people often don’t have someone to talk to.
 
 ## 🤖 Model Credits
 
-- HuggingFace Transformers (e.g., `bert-base-uncased`, `mrm8488/bert-tiny-finetuned-fake-news`, or similar)
-- Custom prompt-based logic for empathy-driven responses
+- Groq AI APIs like Llama 3b model
 
 ---
 
